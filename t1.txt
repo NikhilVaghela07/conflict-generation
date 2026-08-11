@@ -1,2 +1,3 @@
 this is file from main branch and i update this main branch and 
-this is new authentiaction branch feature
+this is new authentiaction branch feature2 now i  update this authentiaction feature and create this new branch
+so i understand this conflict okay
